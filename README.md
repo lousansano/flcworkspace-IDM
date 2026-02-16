@@ -4,7 +4,7 @@ FLC Workspace is a game built as the final project for Interaction Design Studio
 
 <div align="center">
   <kbd>
-    <img src="assets/screenshot.png" alt="somethingelse" width="600">
+    <img src="images/screenshot.png" alt="FLC Workspace" width="600">
   </kbd>
 </div>
 
@@ -14,7 +14,11 @@ I designed a game and installation based around the idea of “bullsh*t jobs” 
 
 For the installation, I built out a small messy office workers desk and asked a volunteer to play as my employee while I as an overbearing boss, guided them through a day of work via the game.
 
-Please visit (WEBSITE LINK HERE) for photos of the installation and additonal screenshots
+Please visit [Lousansano.com](https://lousansano.com) for photos of the installation and additonal game screenshots.
+
+### Please note!
+
+The gamepad stage and final will need a Sony Dualshock 4 or Dualsense controller to play!
 
 ### Built with
 
@@ -23,4 +27,4 @@ Please visit (WEBSITE LINK HERE) for photos of the installation and additonal sc
 
 ## Acknowledgements
 
-Camila Morales and Tim O’Keefe for their assistance and guidance with this project. Tate Gregor for composing and co-producing music and sound effects
+Camila Morales and Tim O’Keefe for their assistance and guidance with this project. Tate Gregor for co-producing music and sound effects.

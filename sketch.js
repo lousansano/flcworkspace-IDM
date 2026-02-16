@@ -4,7 +4,7 @@
 // Interaction Design Studio, IDM Spring 2024
 
 
-//GAMEPAD INFO DS4
+// GAMEPAD INFO DS4
 
 // SQUARE - BUTTON 2
 // CROSS - BUTTON 0
@@ -19,6 +19,7 @@
 // DPAD UP - 12
 // DPAD RIGHT - 15
 // DPAD LEFT - 14
+
 
 //flaticon stuff
 //<a href="https://www.flaticon.com/free-icons/keystroke" title="keystroke icons">Keystroke icons created by Uniconlabs - Flaticon</a>
