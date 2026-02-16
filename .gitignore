@@ -49,6 +49,9 @@ yarn-error.log*
 *.sln
 *.sw?
 
+# Claude
+.claude
+
 # --- Build Outputs ---
 # (Only if you are using a bundler like Vite or Webpack)
 dist/
